@@ -46,11 +46,11 @@ function zp_portfolio_sidebar(){
 
 function zp_get_portfolio_sidebar(){
 	
-	genesis_structural_wrap( 'sidebar' );
+	genesis_get_structural_wrap( 'sidebar' );
 	do_action( 'genesis_before_sidebar_widget_area' );
 	dynamic_sidebar( 'portfolio-sidebar' );
 	do_action( 'genesis_after_sidebar_widget_area' );
-	genesis_structural_wrap( 'sidebar', 'close' );
+	genesis_get_structural_wrap( 'sidebar', 'close' );
 }
  
 /* Add Related Portfolio */

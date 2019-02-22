@@ -221,9 +221,9 @@
 				'context' => 'nav-primary',
 				'echo'    => false,
 			) );
-			$nav_markup_open .= genesis_structural_wrap( 'menu-primary', 'open', 0 );
+			$nav_markup_open .= genesis_get_structural_wrap( 'menu-primary', 'open', 0 );
 	
-			$nav_markup_close  = genesis_structural_wrap( 'menu-primary', 'close', 0 );
+			$nav_markup_close  = genesis_get_structural_wrap( 'menu-primary', 'close', 0 );
 			$nav_markup_close .= genesis_html5() ? '</nav>' : '</div>';
 	
 			$nav_output = $nav_markup_open . $nav . $nav_markup_close;
@@ -269,9 +269,9 @@
 			'context' => 'nav-secondary',
 			'echo'    => false,
 		) );
-		$subnav_markup_open .= genesis_structural_wrap( 'menu-secondary', 'open', 0 );
+		$subnav_markup_open .= genesis_get_structural_wrap( 'menu-secondary', 'open', 0 );
 
-		$subnav_markup_close  = genesis_structural_wrap( 'menu-secondary', 'close', 0 );
+		$subnav_markup_close  = genesis_get_structural_wrap( 'menu-secondary', 'close', 0 );
 		$subnav_markup_close .= genesis_html5() ? '</nav>' : '</div>';
 
 		$subnav_output = $subnav_markup_open . $subnav . $subnav_markup_close;
