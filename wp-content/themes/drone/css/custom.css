@@ -1,0 +1,49 @@
+/*
+ * Custom CSS
+ *
+ * Place here your custom CSS. This will keep your custom css when there is a theme update.
+ *
+ */
+
+body { 
+
+	background: none; 
+	font: 400 13px/1.75 "Raleway",sans-serif;
+}
+
+.page_header h1:after { display: none; }
+
+div.site-container > img {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #777;
+    width: 100%;
+}
+
+
+.page_header {
+    border-bottom: none;
+    border-top: none;
+
+
+}
+
+.zp_masonry_detail .portfolio_detail_cat { display: none; }
+
+#zp_masonry_container > .portfolio-item { margin: 0 15px; }
+
+.zp_footer_main { text-align: center; font-size: 12px; }
+
+
+.page_header h1 {
+
+    letter-spacing: 2px;
+    line-height: 1.2;
+    margin-top: 0px
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.page_header .lead { display: none;
+
+}

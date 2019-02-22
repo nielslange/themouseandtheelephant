@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Drone Genesis Child Theme\n"
+"POT-Creation-Date: 2014-09-12 12:01+0800\n"
+"PO-Revision-Date: 2014-09-12 12:01+0800\n"
+"Last-Translator: joemar aparecio <floroxmar@gmail.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\Users\\User\\Desktop\\drone\n"
+
+#: C:\Users\User\Desktop\drone/content-link.php:17
+#: C:\Users\User\Desktop\drone/content-quote.php:17
+#: C:\Users\User\Desktop\drone/functions.php:254
+msgid "by"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/functions.php:154
+msgid "Bottom Widget"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/functions.php:155
+msgid "This is the bottom widget area."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/functions.php:160
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/functions.php:161
+msgid "This is the sidebar for the portfolio single page."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/functions.php:248
+msgid "Read More "
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/functions.php:318
+#: C:\Users\User\Desktop\drone/functions.php:324
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:161
+msgid "Portfolio Archive Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:545
+msgid "Uploaded image:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:548
+msgid "Uploaded file:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:551
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:608
+msgid "Remove"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:566
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:623
+msgid "Add Image"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/class/class-super-custom-post-meta.php:623
+msgid "Clear Images"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:18
+msgid "Audio .mp3 URL"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:18
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:19
+msgid "Audio .ogg, .oga URL"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:19
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:20
+msgid "Embed Audio"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:20
+msgid "Embed audio code here."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:29
+msgid "Enter link.  E.g., http://www.yourlink.com"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:29
+msgid "Input your link. e.g., http://www.yourlink.com"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:38
+msgid "Video File (.m4v)"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:38
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:39
+msgid "Video File (.ogv)"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:39
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:40
+msgid "Embed Video"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:40
+msgid ""
+"If you are using something other than self hosted video such as Youtube or "
+"Vimeo, paste the embed code here. Width is best at 600px with any height. "
+"This field will override the above."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:50
+msgid "Add Gallery Images. "
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:50
+msgid "Add images for gallery post format."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:60
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:74
+msgid "Add subtitle"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:96
+msgid "Type of Portfolio link"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:96
+msgid "Select what type of link you want for this portfolio item."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:105
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:127
+msgid "Video Link"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:105
+msgid ""
+"Add video link here. Video link format: Youtube: \"http://www.youtube.com/"
+"watch?v=7HKoqNJtMTQ\", Vimeo: \"http://vimeo.com/123123\". Leave empty if "
+"you don't want to have a video on a lightbox."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:106
+msgid ""
+"Upload/Attach images to this portfolio item. Images attached in here will be "
+"shown in lightbox to form slideshow gallery."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:106
+msgid "Leave empty if you don't want to have a galley slideshow on a lightbox."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:114
+msgid "External Link"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:114
+msgid "Add external link for this portfolio item."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:123
+msgid "Button Label"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:123
+msgid "Add button label"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:124
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:47
+msgid "Button Link"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:124
+msgid "Add button link"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:125
+msgid ""
+"Upload/Attach an image to this portfolio item. Images attached in here will "
+"be shown in lightbox and single portfolio page."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:125
+msgid ""
+"Add images to this portfolio. If this is empty, the featured image will be "
+"use."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:126
+msgid "Portfolio Image Display Type"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:126
+msgid "Select how to display portfolio images on single portfolio page."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:127
+msgid ""
+"Add video link here. Video link format: Youtube: \"http://www.youtube.com/"
+"watch?v=7HKoqNJtMTQ\", Vimeo: \"http://vimeo.com/123123\". If this is empty, "
+"the featured image will be used on lightbox."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:138
+msgid "Title"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:139
+msgid "Portfolio Category(s)"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:140
+msgid "Author"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:141
+msgid "Date"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/cpt/zp_cpt.php:156
+msgid "Unable to get portfolio category."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:9
+msgid "Accordion"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:10
+msgid "Insert Accordion Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:15
+msgid "Team"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:16
+msgid "Insert Team Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:21
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:22
+msgid "Insert Blog Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:28
+msgid "Button"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:29
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:32
+msgid "Type"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:33
+msgid "Select type for buttons."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:37
+msgid "Size"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:38
+msgid "Select button size."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:42
+msgid "Outline Style"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:43
+msgid "Select true if you want to have an outline button."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:48
+msgid "Add button link."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:51
+msgid "Button Name"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:52
+msgid "Add button name."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:55
+msgid "Link Target"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:56
+msgid "Select button link target."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:63
+msgid "Portfolio"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:64
+msgid "Insert Portfolio Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:67
+msgid "Pre-select Category"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:68
+msgid ""
+"Category that will be loaded first in portfolio section. Leave empty to "
+"display all items."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:71
+msgid "Enable Lightbox"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:72
+msgid ""
+"Select true to enable portfolio lightbox, false to enable portfolio link."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:79
+msgid "Testimonial"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:80
+msgid "Insert Testimonial Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:85
+msgid "Service"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:86
+msgid "Insert Service Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:91
+msgid "Progress Bar"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:92
+msgid "Insert Progress Bar Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:97
+msgid "Columns"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:98
+msgid "Insert column Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:101
+msgid "One Half"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:102
+msgid "One Third"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:103
+msgid "One Fourth"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:104
+msgid "Column Grid 1"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:105
+msgid "Column Grid 2"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:106
+msgid "Column Grid 3"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:107
+msgid "Column Grid 4"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:108
+msgid "Column Grid 5"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:109
+msgid "Column Grid 6"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:110
+msgid "Column Grid 7"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:111
+msgid "Column Grid 8"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:112
+msgid "Column Grid 9"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:113
+msgid "Column Grid 10"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:114
+msgid "Column Grid 11"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:115
+msgid "Column Grid 12"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:121
+msgid "Tab"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:122
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:125
+msgid "First Tab ID"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:126
+msgid "Add first tab ID. This must be unique and one word only."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:129
+msgid "First Tab Title"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:130
+msgid "Add first tab title."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:133
+msgid "First Tab Content"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:134
+msgid "Add first tab content."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:137
+msgid "Second Tab ID"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:138
+msgid "Add second tab ID. This must be unique and one word only."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:141
+msgid "Second Tab Title"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:142
+msgid "Add second tab title."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:145
+msgid "Second Tab Content"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:146
+msgid "Add second tab content."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:149
+msgid "Third Tab ID"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:150
+msgid "Add third tab ID. This must be unique and one word only."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:153
+msgid "Third Tab Title"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:154
+msgid "Add third tab title."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:157
+msgid "Third Tab Content"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:158
+msgid "Add third tab content."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:165
+msgid "Client Carousel"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:166
+msgid "Insert Client Carousel Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:169
+msgid "Add Carousel Name"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:170
+msgid ""
+"This serves as carousel ID. It must be unique and avoid using spaces. Ex. "
+"\"client_carousel\"."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:176
+msgid "Slider"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/shortcode/shortcode_label.php:177
+msgid "Insert Slider Shortcode"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:299
+msgid "Error 404"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:300
+msgid "Ooops! Page Not Found"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:307
+msgid "Search Results for: "
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:529
+msgid "All"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:565
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:786
+msgid "Load More"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:565
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:786
+msgid "Loading..."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:565
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:786
+msgid "End of Posts"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:614
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:834
+msgid "Load more"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_functions.php:869
+msgid "Read More"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:104
+msgid "Settings reset."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:106
+msgid "Settings saved."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:159
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:160
+msgid "Related Portfolio Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:162
+msgid "Portfolio Category Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:163
+msgid "Related Posts Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:164
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:175
+msgid "Select Theme Skin:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:181
+msgid "Select color scheme:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:196
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:198
+msgid "Upload Logo"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:199
+msgid "Remove Logo"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:205
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:211
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:217
+msgid "Upload Custom Favicon."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:221
+msgid "Upload Favicon"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:222
+msgid "Remove Favicon"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:227
+msgid "This is the general settings."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:233
+msgid "Check to enable related portfolio."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:234
+msgid "Related Portfolio items"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:235
+msgid "Select related portfolio columns:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:241
+msgid "This settings is for related portfolio."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:245
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:258
+msgid "Portfolio archive items"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:246
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:259
+msgid "Select portfolio archive columns:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:252
+msgid "Check to enable portfolio archive filter."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:253
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:265
+msgid "Check to enable portfolio archive load more."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:254
+msgid "This settings is for portfolio archive."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:266
+msgid "This settings is for portfolio category."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:270
+msgid "Check to enable related posts."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:271
+msgid "Related Posts Title"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:272
+msgid "This settings is for related posts."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:278
+msgid "Footer Text"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:280
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:296
+msgid "Insert Image!"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:353
+msgid "Drone Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:354
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:364
+msgid "Save Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:355
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:365
+msgid "Reset Settings"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:355
+#: C:\Users\User\Desktop\drone/include/theme_settings.php:365
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/page_archive.php:14
+msgid "Pages:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/page_archive.php:19
+msgid "Categories:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/page_archive.php:25
+msgid "Authors:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/page_archive.php:30
+msgid "Monthly:"
+msgstr ""
+
+#: C:\Users\User\Desktop\drone/page_archive.php:35
+msgid "Recent Posts:"
+msgstr ""

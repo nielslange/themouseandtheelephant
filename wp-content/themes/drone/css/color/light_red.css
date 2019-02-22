@@ -1,0 +1,68 @@
+/* Light Red Color Scheme */
+
+a { 
+	color: #fc6e51; 
+}
+.entry-title > a:hover,
+.zp_masonry_title a:hover, 
+.portfolio_detail_title > a:hover, 
+.entry-content h2 a:hover, 
+.zp_masonry_link_title a:hover, 
+.zp_masonry_title a:hover, 
+.zp_masonry_link_title a:hover,
+.related-list a:hover,
+.bottom-widget .widget_nav_menu ul li a:hover,
+.navbar .nav > li > a:hover, 
+.navbar .nav > li > a:focus,
+.navbar .nav ul a:hover,
+.zp_masonry_content .btn.btn-sm.btn-default:hover, 
+.zp_masonry_content .btn.btn-sm.btn-default:focus, 
+.zp_masonry_content .btn.btn-sm.btn-default:active,
+.circle i {
+	color: #fc6e51;
+}
+.page_header h1:after,
+.featured-desc h3:after, 
+.zp_team .caption > h3:after,
+.entry-header > i:before,
+#top-link i:hover {
+    background:  #fc6e51;
+}
+.jp-play-bar, .jp-volume-bar-value {
+	background: #fc6e51;
+}
+.option-set a.active, 
+.option-set a:hover,
+.btn-inverse  {
+    background-color: #fc6e51;
+    border-color: #fc6e51;
+}
+.btn-inverse.btn-outline {
+	color: #fff;
+}
+a.btn-inverse.btn-outline:hover {
+	background: rgba(0, 0, 0, 0);
+	color: #fc6e51 !important;
+	border-color: #fc6e51;
+}
+.btn.btn-default.btn-outline {
+	color: #fc6e51;
+	border-color: #fc6e51;
+}
+.btn-default:hover.btn-outline {
+	color: #fff;
+}
+.circle {
+	border-color: #fc6e51;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default, .featured-box:hover > .circle,
+.more-link:hover, #subbutton:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .entry-content .button:hover,
+.archive-pagination li a:hover, .archive-pagination .active a {
+    background-color:  #fc6e51;
+    border-color:  #fc6e51;
+    color: #ffffff;
+}
+.hover_icon a, .single_portfolio_gallery .portfolio_icon_class i, .single_portfolio_image .portfolio_icon_class i,
+.single_portfolio_image .portfolio_icon_class.portfolio_icon_link i {
+	background-color: #fc6e51;
+}

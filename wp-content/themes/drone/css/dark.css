@@ -1,0 +1,102 @@
+/* Dark Color Scheme */
+body {
+	background-color: #333333;
+    color: #c8c8c8;
+    }
+
+.thumbnail .caption {
+	color: #c8c8c8;
+}
+.footer-widgets,
+.site-footer,
+.progress,
+input, select, textarea,
+.zp_top_area_wrap,
+.zp_top_area_trigger,
+.zp_team .team_social li {
+	background-color: rgba(49, 49, 49, 0.6);
+}
+#header {
+	background: transparent;
+}
+#header.navbar-fixed-top {
+	background-color: rgba(49, 49, 49, 0.9);
+}
+ 
+.content_container,
+.page.full-width-content .content article.entry,
+.page.content-sidebar .content article.entry,
+.page.sidebar-content .content article.entry,
+.error404.full-width-content .content article.entry ,
+.error404.content-sidebar .content article.entry,
+.zp_masonry_detail,
+.navbar .nav ul li,
+.single_portfolio_container.single_portfolio_content,
+.author-box,
+.entry-comments,
+.comment-respond,
+.panel,
+.panel-default > .panel-heading,
+.related-posts,
+.option-set a,
+.tab_container .nav-tabs > li > a,
+.tab_container .nav-tabs > li.active > a,
+.thumbnail {
+	 background-color: #414141;
+}
+
+#header.navbar-fixed-top, 
+.page_header, 
+.footer-widgets, 
+.footer-widgets-2 .widget,
+.site-footer .container, 
+.navbar .nav ul, 
+.navbar .nav ul li,
+.widgettitle, h3.related-title,
+input, select, textarea,
+li.comment,
+hr,
+.nav-tabs,
+.panel-default > .panel-heading,
+.panel-default,
+.tab_container .nav-tabs > li > a {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+.tab_container .nav-tabs > li.active > a {
+	border-color: rgba(255, 255, 255, 0);
+}
+
+a:hover, a:focus {
+	color: #fff;
+    text-decoration: none;
+}
+
+input:focus, textarea:focus {
+	border-color: rgba(255, 255, 255, 0.3);
+}
+ 
+h1, h2, h3, h4, h5, h6,
+span.pull-right, span.pull-left {
+	color: #ffffff;
+}
+
+.navbar .nav > li > a,
+.navbar .nav ul a,
+.site-title > a:hover,
+#quote-carousel .carousel-control {
+    color: #fff;
+	opacity: 0.9;
+}
+
+.site-title > a,
+.entry-title > a, .portfolio_detail_title > a,
+.entry-title > a, .portfolio_detail_title > a, .entry-content h2 a, .zp_masonry_link_title a, .zp_masonry_title a, .related-list a,
+.option-set a,
+.related-list a,
+.zp_masonry_content .btn.btn-sm.btn-default,
+.bottom-widget .widget_nav_menu ul li a,
+.panel-title > a, .panel-title > a:hover,
+.nav-tabs > li.active > a:focus,
+.zp_team .team_social li a {
+	color: #fff;
+}

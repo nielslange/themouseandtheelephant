@@ -1,0 +1,8 @@
+/* Admin shortcode CSS */
+i.zp_shortcode_icon {
+	background-image: url('../images/icon.png');
+}
+.mce-window .mce-container-body.mce-abs-layout{
+	overflow-y: visible !important;
+	overflow: overlay !important;
+}
