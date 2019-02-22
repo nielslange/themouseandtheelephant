@@ -80,7 +80,8 @@ function zp_custom_post_type() {
 /*---------------------------------------------------*/
 	$portfolio_custom_default = array(
 		'supports' => array( 'title', 'editor', 'thumbnail', 'revisions','genesis-layouts', 'genesis-seo', 'genesis-cpt-archives-settings', 'excerpt' ) ,
-		'menu_icon' => 'dashicons-portfolio'
+		'menu_icon' => 'dashicons-portfolio',
+		'show_in_rest' => true
 	);
 	
 	//register portfolio post type

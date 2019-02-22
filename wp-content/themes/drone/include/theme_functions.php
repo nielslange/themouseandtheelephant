@@ -530,6 +530,14 @@ function zp_post_items_term( $id, $sep ){
 	
 	// Get all portfolio catgories
 	$categories = get_categories( array( 'taxonomy' => $taxonomy ) );
+
+    // NL: Remove gallery from category array
+	 foreach ($categories as $index => $data) {
+		 if ($data->slug == 'gallery') {
+			 unset($categories[$index]);
+		 }
+	 }
+
 	foreach( $categories as $category ):
 		if(  $category == $category->slug ){
 			$output .=  '<li ><a class="'.$selected.'" href="#" data-option-value=".'.$category->slug.'" >'.$category->name.'</a></li>';
@@ -583,7 +591,9 @@ function zp_post_items_term( $id, $sep ){
 	
 	// Set columns
 	$portfolio_col = zp_columns( $columns );
-	
+
+
+
 	// Filter functions	 
 	$output .= zp_filter_function( $filter, $category, 'portfolio_category' );
 	
@@ -747,13 +757,15 @@ function zp_post_items_term( $id, $sep ){
 					$external_link = get_post_meta( $post->ID, 'zp_external_link', true );
 					//$hover_icon = '<span class="hover_icon"><a href="'.$external_link.'" target="_blank"><i class="fa fa-plus"></i></a></span>';
 					$output .= '<div class="zp_masonry_item  portfolio-item  '.$portfolio_col.' '.zp_portfolio_items_term( $post->ID, '' ).'">';
-					$output .= '<span class="zp_masonry_media"><a href="'.$external_link.'" target="_blank">'.$hover_icon.$image.'</a></span><span class="zp_masonry_detail"><span class="portfolio_detail_title"><a href="'.$external_link.'" target="_blank">'.get_the_title().'</a></span><span class="portfolio_detail_cat">'.zp_portfolio_items_term( $post->ID , ',').''.$like.'</span></span>';
+					$output .= '<span class="zp_masonry_media"><a href="'.$external_link.'" target="_blank">'.$image.'</a></span><span class="zp_masonry_detail"><span class="portfolio_detail_title"><a href="'.$external_link.'" target="_blank">'.get_the_title().'</a></span><span class="portfolio_detail_cat">'.zp_portfolio_items_term( $post->ID , ',').''.$like.'</span></span>';
+					//$output .= '<span class="zp_masonry_media"><a href="'.$external_link.'" target="_blank">'.$hover_icon.$image.'</a></span><span class="zp_masonry_detail"><span class="portfolio_detail_title"><a href="'.$external_link.'" target="_blank">'.get_the_title().'</a></span><span class="portfolio_detail_cat">'.zp_portfolio_items_term( $post->ID , ',').''.$like.'</span></span>';
 					$output .= '</div>';
 					break;
 				default:
 					//$hover_icon = '<span class="hover_icon"><a href="'.get_permalink().'"><i class="fa fa-plus"></i></a></span>';
 					$output .= '<div class="zp_masonry_item portfolio-item  '.$portfolio_col.' '.zp_portfolio_items_term( $post->ID, '' ).'">';
-					$output .= '<span class="zp_masonry_media"><a href="'.get_permalink().'">'.$hover_icon.$image.'</a></span><span class="zp_masonry_detail"><span class="portfolio_detail_title"><a href="'.get_permalink().'" >'.get_the_title().'</a></span><span class="portfolio_detail_cat">'.zp_portfolio_items_term( $post->ID, ',' ).''.$like.'</span></span>';
+					$output .= '<span class="zp_masonry_media"><a href="'.get_permalink().'">'.$image.'</a></span><span class="zp_masonry_detail"><span class="portfolio_detail_title"><a href="'.get_permalink().'" >'.get_the_title().'</a></span><span class="portfolio_detail_cat">'.zp_portfolio_items_term( $post->ID, ',' ).''.$like.'</span></span>';
+					//$output .= '<span class="zp_masonry_media"><a href="'.get_permalink().'">'.$hover_icon.$image.'</a></span><span class="zp_masonry_detail"><span class="portfolio_detail_title"><a href="'.get_permalink().'" >'.get_the_title().'</a></span><span class="portfolio_detail_cat">'.zp_portfolio_items_term( $post->ID, ',' ).''.$like.'</span></span>';
 					$output .= '</div>';
 					break;
 			}
